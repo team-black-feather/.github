@@ -12,7 +12,7 @@ Ranging from flying surveillance drones to Biometric access control systems and 
 <br>
 
 # PROJECT-HAKAI
-PROJECT HAKAI isan autonomous security suite aimed to monitor, map and estimate threat levels. 
+PROJECT HAKAI is an autonomous security suite aimed to monitor, map and estimate threat levels. 
 
 ## SECONDARY PROJECTS INCLUDED:
 
