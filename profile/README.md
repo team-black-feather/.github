@@ -43,6 +43,6 @@ Details are yet to be publicly shared.
 Contact options are yet to be decided.
 
 # EXIT-NOTE
-Due to the sensitive information this project collects, Access will **only** be shared on our discretion. No source code, binaries or other forms of data will be shared to any social platform. Neither is any user allowed to (re)publish, adjust, modify or otherwise interact with any of the projects without our explicit and signed written confirmation.
+Due to the sensitive information these projects collect, Access will **only** be shared on our discretion. No source code, binaries or other forms of data will be shared to any social platform. Neither is any user allowed to (re)publish, adjust, modify or otherwise interact with any of the projects without our explicit and signed written confirmation.
 
 &copy; 2025 - 2026 Team kurohane / yokaigroup
